@@ -1,0 +1,20 @@
+.div_menu{
+	background-color: black;
+	margin-bottom: 10px;
+}
+
+.div_menu table a{
+	text-decoration: none;
+	color: white;
+	text-transform: uppercase;
+}
+
+.slider-div{
+	margin: 0 50px;
+}
+
+footer{
+	text-align: center;
+	background-color: black;
+	color: white;
+}
